@@ -8,7 +8,6 @@
 
 ## Pertemuan 1
 
-### Hasil 
+### Hasil Tugas
 
 <img src="./ss_hasil_prak1.jpeg" alt="Hasil Praktikum" width="500">
-
