@@ -1,14 +1,14 @@
-\# H1D024027-Praktikum-Mobile-Kotlin
+# H1D024027-Praktikum-Mobile-Kotlin
 
-\*\*Nama:\*\* Intan Ayu Tsalisatul Arifah 
+**Nama:** Intan Ayu Tsalisatul Arifah 
 
-\*\*Shift:\*\* F
+**Shift:** F
 
-\---
+---
 
-\## Pertemuan 1
+## Pertemuan 1
 
-\### Img
+### Hasil 
 
 <img src="./ss_hasil_prak1.jpeg" alt="Hasil Praktikum" width="500">
 
