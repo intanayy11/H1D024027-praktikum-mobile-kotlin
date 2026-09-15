@@ -16,6 +16,6 @@
 
 ### Hasil Tugas 
 
-<img src="./prak2_tentang_jualan.jpeg" alt="Hasil Praktikum" width="400">
+<img src="./prak2_tentang jualan.jpg" alt="Hasil Praktikum" width="400">
 
-<img src="./prak2_hubungi kami.jpeg" alt="Hasil Praktikum" width="400">
+<img src="./prak2_hubungi kami.jpg" alt="Hasil Praktikum" width="400">
