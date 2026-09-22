@@ -28,8 +28,8 @@
 <img src="./preview_produk.png" alt="Hasil Praktikum" width="400">
 3. Daftar Produk UMKM
 <img src="./daftar_produk_UMKM.png" alt="Hasil Praktikum" width="400">
-4. Preview Theme
+4. Preview Theme <br>
 a. Light Mode
 <img src="./light_mode.png" alt="Hasil Praktikum" width="400">
 b. Dark Mode
-<img src="./prak2_tentang jualan.jpg" alt="Hasil Praktikum" width="400">
+<img src="./dark_mode.png" alt="Hasil Praktikum" width="400">
