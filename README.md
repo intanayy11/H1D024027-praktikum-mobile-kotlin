@@ -38,15 +38,15 @@ b. Dark Mode
 
 <table border="1">
   <tr>
-    <td align="center" width="50%">
+    <td align="center" width="30%">
       <b>Preview Daftar Produk</b><br>
       <img src="Prak4_Daftar_Produk.jpeg" width="100%">
     </td>
-    <td align="center" width="50%">
+    <td align="center" width="30%">
       <b>Preview Detail Produk</b><br>
       <img src="Prak4_Detail_Produk.jpeg" width="100%">
     </td>
-    <td align="center" width="50%">
+    <td align="center" width="30%">
       <b>Preview Hubungi Kami</b><br>
       <img src="Prak4_Hubung_Kami.jpeg" width="100%">
     </td>
